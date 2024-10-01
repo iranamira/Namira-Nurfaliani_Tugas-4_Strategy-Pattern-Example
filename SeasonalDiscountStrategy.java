@@ -1,4 +1,3 @@
-// SeasonalDiscountStrategy.java
 public class SeasonalDiscountStrategy implements DiscountStrategy {
     @Override
     public double getDiscountedPrice(double price) {
